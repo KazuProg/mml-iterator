@@ -1,0 +1,740 @@
+{
+  "ceg": [
+    {
+      "type": "note",
+      "time": 0,
+      "duration": 0.5,
+      "noteNumber": 60,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 0.5,
+      "duration": 0.5,
+      "noteNumber": 64,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 1,
+      "duration": 0.5,
+      "noteNumber": 67,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "end",
+      "time": 1.5
+    }
+  ],
+  "ce8g.": [
+    {
+      "type": "note",
+      "time": 0,
+      "duration": 0.5,
+      "noteNumber": 60,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 0.5,
+      "duration": 0.25,
+      "noteNumber": 64,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 0.75,
+      "duration": 0.75,
+      "noteNumber": 67,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "end",
+      "time": 1.5
+    }
+  ],
+  "c^^ e8^^ g^^": [
+    {
+      "type": "note",
+      "time": 0,
+      "duration": 1.5,
+      "noteNumber": 60,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 1.5,
+      "duration": 0.75,
+      "noteNumber": 64,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 2.25,
+      "duration": 1.5,
+      "noteNumber": 67,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "end",
+      "time": 3.75
+    }
+  ],
+  "cr er gr": [
+    {
+      "type": "note",
+      "time": 0,
+      "duration": 0.5,
+      "noteNumber": 60,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 1,
+      "duration": 0.5,
+      "noteNumber": 64,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 2,
+      "duration": 0.5,
+      "noteNumber": 67,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "end",
+      "time": 3.0
+    }
+  ],
+  "r": [
+    {
+      "type": "end",
+      "time": 0.5
+    }
+  ],
+  "[ ceg ]": [
+    {
+      "type": "note",
+      "time": 0,
+      "duration": 0.5,
+      "noteNumber": 60,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 0,
+      "duration": 0.5,
+      "noteNumber": 64,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 0,
+      "duration": 0.5,
+      "noteNumber": 67,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "end",
+      "time": 0.5
+    }
+  ],
+  "o4 ceg": [
+    {
+      "type": "note",
+      "time": 0,
+      "duration": 0.5,
+      "noteNumber": 60,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 0.5,
+      "duration": 0.5,
+      "noteNumber": 64,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 1,
+      "duration": 0.5,
+      "noteNumber": 67,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "end",
+      "time": 1.5
+    }
+  ],
+  "c > e < g": [
+    {
+      "type": "note",
+      "time": 0,
+      "duration": 0.5,
+      "noteNumber": 60,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 0.5,
+      "duration": 0.5,
+      "noteNumber": 76,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 1,
+      "duration": 0.5,
+      "noteNumber": 67,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "end",
+      "time": 1.5
+    }
+  ],
+  "l16 ceg": [
+    {
+      "type": "note",
+      "time": 0,
+      "duration": 0.125,
+      "noteNumber": 60,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 0.125,
+      "duration": 0.125,
+      "noteNumber": 64,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 0.25,
+      "duration": 0.125,
+      "noteNumber": 67,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "end",
+      "time": 0.375
+    }
+  ],
+  "q50 ceg": [
+    {
+      "type": "note",
+      "time": 0,
+      "duration": 0.5,
+      "noteNumber": 60,
+      "velocity": 100,
+      "quantize": 50
+    },
+    {
+      "type": "note",
+      "time": 0.5,
+      "duration": 0.5,
+      "noteNumber": 64,
+      "velocity": 100,
+      "quantize": 50
+    },
+    {
+      "type": "note",
+      "time": 1,
+      "duration": 0.5,
+      "noteNumber": 67,
+      "velocity": 100,
+      "quantize": 50
+    },
+    {
+      "type": "end",
+      "time": 1.5
+    }
+  ],
+  "v80 ceg": [
+    {
+      "type": "note",
+      "time": 0,
+      "duration": 0.5,
+      "noteNumber": 60,
+      "velocity": 80,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 0.5,
+      "duration": 0.5,
+      "noteNumber": 64,
+      "velocity": 80,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 1,
+      "duration": 0.5,
+      "noteNumber": 67,
+      "velocity": 80,
+      "quantize": 75
+    },
+    {
+      "type": "end",
+      "time": 1.5
+    }
+  ],
+  "t80 ceg": [
+    {
+      "type": "note",
+      "time": 0,
+      "duration": 0.75,
+      "noteNumber": 60,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 0.75,
+      "duration": 0.75,
+      "noteNumber": 64,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 1.5,
+      "duration": 0.75,
+      "noteNumber": 67,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "end",
+      "time": 2.25
+    }
+  ],
+  "c $ eg": [
+    {
+      "type": "note",
+      "time": 0,
+      "duration": 0.5,
+      "noteNumber": 60,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 0.5,
+      "duration": 0.5,
+      "noteNumber": 64,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 1,
+      "duration": 0.5,
+      "noteNumber": 67,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 1.5,
+      "duration": 0.5,
+      "noteNumber": 64,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 2,
+      "duration": 0.5,
+      "noteNumber": 67,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 2.5,
+      "duration": 0.5,
+      "noteNumber": 64,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 3,
+      "duration": 0.5,
+      "noteNumber": 67,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 3.5,
+      "duration": 0.5,
+      "noteNumber": 64,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 4,
+      "duration": 0.5,
+      "noteNumber": 67,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 4.5,
+      "duration": 0.5,
+      "noteNumber": 64,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 5,
+      "duration": 0.5,
+      "noteNumber": 67,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 5.5,
+      "duration": 0.5,
+      "noteNumber": 64,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 6,
+      "duration": 0.5,
+      "noteNumber": 67,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 6.5,
+      "duration": 0.5,
+      "noteNumber": 64,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 7,
+      "duration": 0.5,
+      "noteNumber": 67,
+      "velocity": 100,
+      "quantize": 75
+    }
+  ],
+  "c > $ < eg >": [
+    {
+      "type": "note",
+      "time": 0,
+      "duration": 0.5,
+      "noteNumber": 60,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 0.5,
+      "duration": 0.5,
+      "noteNumber": 64,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 1,
+      "duration": 0.5,
+      "noteNumber": 67,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 1.5,
+      "duration": 0.5,
+      "noteNumber": 64,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 2,
+      "duration": 0.5,
+      "noteNumber": 67,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 2.5,
+      "duration": 0.5,
+      "noteNumber": 64,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 3,
+      "duration": 0.5,
+      "noteNumber": 67,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 3.5,
+      "duration": 0.5,
+      "noteNumber": 64,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 4,
+      "duration": 0.5,
+      "noteNumber": 67,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 4.5,
+      "duration": 0.5,
+      "noteNumber": 64,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 5,
+      "duration": 0.5,
+      "noteNumber": 67,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 5.5,
+      "duration": 0.5,
+      "noteNumber": 64,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 6,
+      "duration": 0.5,
+      "noteNumber": 67,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 6.5,
+      "duration": 0.5,
+      "noteNumber": 64,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 7,
+      "duration": 0.5,
+      "noteNumber": 67,
+      "velocity": 100,
+      "quantize": 75
+    }
+  ],
+  "c $ l2": [
+    {
+      "type": "note",
+      "time": 0,
+      "duration": 0.5,
+      "noteNumber": 60,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "end",
+      "time": 0.5
+    }
+  ],
+  "c $": [
+    {
+      "type": "note",
+      "time": 0,
+      "duration": 0.5,
+      "noteNumber": 60,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "end",
+      "time": 0.5
+    }
+  ],
+  "$": [
+    {
+      "type": "end",
+      "time": 0.0
+    }
+  ],
+  "/: ceg :/": [
+    {
+      "type": "note",
+      "time": 0,
+      "duration": 0.5,
+      "noteNumber": 60,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 0.5,
+      "duration": 0.5,
+      "noteNumber": 64,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 1,
+      "duration": 0.5,
+      "noteNumber": 67,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 1.5,
+      "duration": 0.5,
+      "noteNumber": 60,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 2,
+      "duration": 0.5,
+      "noteNumber": 64,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 2.5,
+      "duration": 0.5,
+      "noteNumber": 67,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "end",
+      "time": 3.0
+    }
+  ],
+  "/: ce |g :/3": [
+    {
+      "type": "note",
+      "time": 0,
+      "duration": 0.5,
+      "noteNumber": 60,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 0.5,
+      "duration": 0.5,
+      "noteNumber": 64,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 1,
+      "duration": 0.5,
+      "noteNumber": 67,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 1.5,
+      "duration": 0.5,
+      "noteNumber": 60,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 2,
+      "duration": 0.5,
+      "noteNumber": 64,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 2.5,
+      "duration": 0.5,
+      "noteNumber": 67,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 3,
+      "duration": 0.5,
+      "noteNumber": 60,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "note",
+      "time": 3.5,
+      "duration": 0.5,
+      "noteNumber": 64,
+      "velocity": 100,
+      "quantize": 75
+    },
+    {
+      "type": "end",
+      "time": 4.0
+    }
+  ]
+}
