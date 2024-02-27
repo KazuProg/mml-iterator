@@ -63,7 +63,7 @@ class Scanner {
   throwUnexpectedToken() {
     const identifier = this.peek() || "ILLEGAL";
 
-    throw new SyntaxError(`Unexpected token: ${identifier}`);
+    throw new SyntaxError(`Unexpected token: [${identifier}]`);
   }
 }
 
